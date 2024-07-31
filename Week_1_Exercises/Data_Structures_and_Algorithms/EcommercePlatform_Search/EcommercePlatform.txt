@@ -1,0 +1,27 @@
+Exercise 2: E-commerce Platform Search Function
+
+Big O Notation:
+
+Definition: Big O notation describes the upper bound of an algorithm's running time, helping to classify algorithms by how they respond to changes in input size.
+
+Purpose: It helps in analyzing the efficiency and scalability of algorithms by providing a high-level understanding of their performance.
+
+Best, Average, and Worst-Case Scenarios for Search Operations:
+
+Linear Search:
+
+Best Case: 
+O(1) - The target element is at the beginning of the list.
+Average Case: 
+O(n) - The target element is somewhere in the middle or at an unpredictable location.
+Worst Case: 
+O(n) - The target element is at the end of the list or not present at all.
+
+Binary Search:
+
+Best Case: 
+O(1) - The target element is at the middle of the sorted list.
+Average Case: 
+O(logn) - The list is divided repeatedly to find the target element.
+Worst Case: 
+O(logn) - The element is at one of the ends of the sorted list or not present at all.

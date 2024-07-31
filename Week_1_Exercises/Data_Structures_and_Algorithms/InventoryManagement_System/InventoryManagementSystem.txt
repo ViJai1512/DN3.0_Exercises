@@ -1,0 +1,17 @@
+Exercise 1: Inventory Management System
+
+Why Data Structures and Algorithms are Essential in Handling Large Inventories:
+
+Efficient Data Storage: Proper data structures ensure that products are stored in a way that optimizes space and allows for quick access.
+
+Fast Retrieval: Efficient algorithms ensure that products can be retrieved quickly, which is crucial for managing inventory levels and processing orders.
+
+Scalability: As the inventory grows, the system must handle increased data efficiently. Suitable data structures and algorithms allow the system to scale without performance degradation.
+
+Data Integrity: Properly designed data structures help maintain the integrity and consistency of the inventory data.
+
+Suitable Data Structures for Inventory Management:
+
+ArrayList: Provides fast access to elements by index and is easy to use, but operations like adding and removing elements can be slow if they require shifting elements.
+
+HashMap: Offers average-case constant time complexity for add, update, and delete operations. It's highly efficient for key-value pair storage and retrieval.
